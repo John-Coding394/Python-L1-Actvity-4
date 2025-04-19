@@ -1,0 +1,11 @@
+name=input("Enter name ")
+print("Lentgh of string ", len(name))
+print("First character of string ",name[0])
+print("Last character of string ",name[-1])
+print("Substring ",name[1:4])
+print("Upper case ",name.upper())
+print("Lower case",name.lower())
+print("Reverse ",name[::-1])
+a="John"
+b="Codingal" 
+print(a+b)
